@@ -1,5 +1,5 @@
-/node_modules
+node_modules/
 
-/contenu_clef_usb
+contenu_clef_usb/
 
 text-site.odt
