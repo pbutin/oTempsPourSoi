@@ -2,10 +2,6 @@ $( ".btnAcceuil" ).click(function() {
   $("#body").load("html/acceuil.html");
 });
 
-$( ".btnAPropos" ).click(function() {
-  $("#body").load("html/aPropos.html");
-});
-
 $( ".btnAtelier" ).click(function() {
   $("#body").load("html/atelier.html");
 });
@@ -28,6 +24,10 @@ $( ".btnDemiJourneeBienEtre" ).click(function() {
 
 $( ".btnMassage" ).click(function() {
   $("#body").load("html/massage.html");
+});
+
+$( ".btnPresentation" ).click(function() {
+  $("#body").load("html/presentation.html");
 });
 
 $(document).ready(function(){
