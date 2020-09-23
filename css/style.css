@@ -6,6 +6,35 @@
  * Made By MaterializeCSS.com
  */
 
+@font-face {
+    font-family: 'poiret';
+    src: url('../font/poiretone-regular-webfont.woff2') format('woff2'),
+         url('../font/poiretone-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'josefin';
+    src: url('../font/josefinsans-regular-webfont.woff2') format('woff2'),
+         url('../font/josefinsans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+	font-family: 'poiret';
+}
+
+.mini-text {
+	font-size: 11px
+}
+
+.bold {
+	font-weight: bold;
+}
+
+
 .icon-block {
   	padding: 0 15px;
 }
@@ -41,6 +70,7 @@
 
 #body {
 	text-align: justify;
+	/*font-family: 'josefin';*/
 }
 
 .gris {
@@ -50,6 +80,10 @@
 .gris-text {
 	color: #e3e3e3;
 }
+
+/*white-text {
+	color: #ffffff;
+}*/
 
 .logo {
 	height: 2rem;

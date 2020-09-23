@@ -32,5 +32,5 @@ $( ".btnPresentation" ).click(function() {
 
 $(document).ready(function(){
 	$('#nav-mobile').sidenav();
-	$(".dropdown-trigger").dropdown();
+	$(".dropdown-trigger").dropdown({ hover: true });
 });
