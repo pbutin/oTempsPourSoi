@@ -174,3 +174,22 @@ tr {
 .margin-top {
 	margin-top: 3em;
 }
+
+.btn-rdv {
+	background-color: #f7cebb;
+	color: #8d7b6a;
+	font-weight: 1000;
+	font-size: 1.3rem;
+
+	padding: 0.5rem;
+	padding-top : 0.7rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
+
+	border-radius: 99999px;
+}
+
+.border {
+	border: 1px black solid;
+	padding: 0.8rem;
+}
