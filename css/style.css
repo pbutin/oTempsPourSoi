@@ -193,3 +193,7 @@ tr {
 	border: 1px black solid;
 	padding: 0.8rem;
 }
+
+.pb5 {
+	padding-bottom: 5rem;
+}
