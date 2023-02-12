@@ -197,3 +197,11 @@ tr {
 .pb5 {
 	padding-bottom: 5rem;
 }
+
+.mx-wd {
+	max-width: 35rem;
+}
+
+.no-margin {
+	margin: 0;
+}
